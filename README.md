@@ -79,4 +79,4 @@ Foundation 4 is a mobile-first framework. Learn more about best practices for de
 
 ## Auhor
 
-<a href="http://twitter.com/lkbcc">@Lkbcc</a> <img src="https://twimg0-a.akamaihd.net/profile_images/2961029932/ac6af7787a42ee36ccf63e818fa14992_bigger.jpeg" width="" 50px"></a> Leonard Bogdonoff <a href="http://twitter.com/lkbcc">@Lkbcc</a> 
+<a href="http://twitter.com/lkbcc"><img src="https://twimg0-a.akamaihd.net/profile_images/2961029932/ac6af7787a42ee36ccf63e818fa14992_bigger.jpeg" width="" 50px"></a> Leonard Bogdonoff <a href="http://twitter.com/lkbcc">@Lkbcc</a> 
