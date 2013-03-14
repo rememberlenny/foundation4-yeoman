@@ -1,5 +1,5 @@
-<a href="http://getbootstrap.com">
-  <img src="rememberlenny.com/images/yeofound/yf.png" width="120px">
+<a href="https://github.com/lkbgift/foundation4-yeoman">
+  <img src="http://rememberlenny.com/images/yeofound/yf.png" width="120px">
 </a>
 
 # [Yeoman 1.0 and Foundation 4.0.6](https://github.com/lkbgift/foundation4-yeoman) [![Build Status](https://secure.travis-ci.org/twitter/bootstrap.png)](http://travis-ci.org/twitter/bootstrap)
