@@ -73,3 +73,10 @@ Foundation 4 is a mobile-first framework. Learn more about best practices for de
 ## To Do
 
 + Zepto.js has not yet been integrated with the RequireJS.
++ Set up npm with configuration
++ Make updates as dependencies change
+
+
+## Auhor
+
+<img src="https://secure.gravatar.com/avatar/768af3def250eed3bbd49cd1e562b6f5?s=420&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="" 50px"> Lenny Bogdonoff <a href="http://twitter.com/lkbcc">@Lkbcc</a> 
