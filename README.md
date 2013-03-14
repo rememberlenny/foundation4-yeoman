@@ -52,7 +52,7 @@ This repository has configured RequireJS and Compass to interface with Foundatio
 
 
 
-## Yeoman Instructions
+## [Yeoman](http://yeoman.io/index.html) Instructions
 
 You must have Yeoman installed for this repository to function.
 
@@ -64,7 +64,7 @@ You can learn more about Yeoman [here](http://yeoman.io/index.html).
 
 
 
-## Foundation Instructions
+## [Foundation](http://foundation.zurb.com/) Instructions
 
 Foundation 4 is a mobile-first framework. Learn more about best practices for developing here on Zurb's site [here](http://foundation.zurb.com/). 
 
