@@ -1,5 +1,10 @@
-// Global Foundation Settings
+// Make sure the charset is set appropriately
+@charset "UTF-8";
+
+// Normalize
 @import "normalize";
+
+// Global Foundation Settings
 @import "settings";
 
 // Comment out this import if you are customizing you imports below
