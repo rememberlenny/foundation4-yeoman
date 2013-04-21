@@ -2,7 +2,7 @@
   <img src="http://rememberlenny.com/images/yeofound/yf.png" width="120px">
 </a>
 
-# [Yeoman 1.0 and Foundation 4.0.6](https://github.com/lkbgift/foundation4-yeoman)
+# [Yeoman 1.0 and Foundation 4.1.2+](https://github.com/lkbgift/foundation4-yeoman)
 
 Yeoman is a robust and opinionated client-side stack, comprising tools and frameworks that can help developers quickly build beautiful web applications.
 
